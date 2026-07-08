@@ -1,0 +1,8 @@
+node_modules/
+.kotadb/
+.pi/*.state.json
+.worktrees/
+nul
+
+# feature-flow artifact junction (external storage)
+.ff
