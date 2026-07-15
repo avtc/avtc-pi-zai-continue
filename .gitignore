@@ -4,6 +4,4 @@ node_modules/
 .worktrees/
 nul
 
-# feature-flow artifact junction (external storage)
-.ff
 .pi
