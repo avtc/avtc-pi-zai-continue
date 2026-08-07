@@ -1,6 +1,6 @@
 {
   "name": "avtc-pi-zai-continue",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Auto-continue after Z.ai usage limit resets, with a live countdown and retry suppression.",
   "type": "module",
   "keywords": [
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.0",
-    "@earendil-works/pi-coding-agent": "^0.80.6",
+    "@earendil-works/pi-coding-agent": "^0.84.1",
     "@types/node": "^25.9.3",
     "jscpd": "^5.0.10",
     "knip": "^6.17.1",
